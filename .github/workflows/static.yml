@@ -25,7 +25,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: mylab.jagadam97.ml
+      url: https://mylab.jagadam97.ml
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
